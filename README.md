@@ -13,4 +13,4 @@ Similar points should be within 200 meters distance from each other
 Here are the requirements for the solution:
 The program should be written in Python and use appropriate data structures to store the dataset.
 Output should be a csv file with all the entries which satisfy given criteria of similarity marked as True / 1 in a separate column named is_similar
-Submission files both python program and output csv file
+Submission files both python program is Spatic.ipynb and  file
